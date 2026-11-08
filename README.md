@@ -1,6 +1,6 @@
 # Apps that block Reels and Shorts on iPhone (2026)
 
-A plain, checked list of every iPhone app we know of that removes Instagram Reels, YouTube Shorts and other short-video feeds, with **price, App Store privacy label and whether your DMs keep working**. Facts come from each app's US App Store page.
+A plain, checked list of every iPhone app we know of that removes Instagram Reels, YouTube Shorts and other short-video feeds, with **price, App Store privacy label, whether your DMs keep working and a 12-point pro-consumer score**. Facts come from each app's US App Store page.
 
 **Last checked: 8 November 2026** · [Data as CSV](data/apps.csv) · [How to add or correct an app](CONTRIBUTING.md)
 
@@ -11,6 +11,7 @@ A plain, checked list of every iPhone app we know of that removes Instagram Reel
 - [Quick answer](#quick-answer)
 - [The four ways an iPhone app can block Reels](#the-four-ways-an-iphone-app-can-block-reels)
 - [All apps compared](#all-apps-compared)
+- [Pro-consumer score](#pro-consumer-score)
 - [How to choose](#how-to-choose)
 - [Without installing anything](#without-installing-anything)
 - [Not yet checked](#not-yet-checked)
@@ -62,6 +63,35 @@ Sorted by type, then by how much is free. Prices are the in-app purchase list on
 | [iPhone Screen Time](https://support.apple.com/guide/iphone/set-schedules-with-screen-time-iphb0c7313c9/ios) | Time limits for whole apps | Built in | None | Apple | No |
 
 **About the privacy labels:** "Data Not Collected" and "Data Not Linked to You" are the strongest labels Apple gives. "Data Used to Track You" means the developer says data is used to follow you across other companies' apps and websites, usually for advertising.
+
+## Pro-consumer score
+
+How an app treats you, separate from how well it blocks: one point for each of 12 checks taken from the app's own App Store page, website, privacy policy and terms. `?` means we couldn't verify it, and it isn't counted against the app (so some are scored out of 11). iPhone Screen Time is part of iOS and isn't scored. The full answers and the source for every app are in [the CSV](data/apps.csv); the checks are in [score-checks.json](data/score-checks.json).
+
+| App | Score | Core free | Strictest mode free | No weekly plan | No converting trial | No ads | No tracking label | Analytics off by default | No ad trackers on site | English privacy policy | Own terms | No arbitration | No account |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| **StillTabs** | 12/12 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Nope | 12/12 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| FeedOff | 11/12 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ |
+| Slowth | 11/12 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ |
+| UNDOOMED | 10/12 | ✅ | ❌ | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Fluid Friction | 10/12 | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ |
+| snowscroll | 9/12 | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| one sec | 8/11 | ❌ | ? | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ |
+| ScrollGuard | 8/12 | ❌ | ❌ | ✅ | ❌ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| minulo | 7/12 | ✅ | ❌ | ✅ | ❌ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ | ✅ | ✅ |
+| LoomWeb | 7/12 | ❌ | ❌ | ✅ | ❌ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ |
+| #blockit | 7/12 | ❌ | ❌ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ✅ | ✅ |
+| ScreenZen | 7/12 | ✅ | ❌ | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ |
+| Dull | 6/12 | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Sociano | 5/12 | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ | ❌ |
+| Scroll Less | 5/12 | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ❌ | ✅ | ✅ | ❌ | ✅ | ❌ |
+| Opal | 4/12 | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ✅ | ❌ | ✅ | ✅ |
+| SocialLite | 3/12 | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ |
+
+What the checks mean: the thing you installed it for is free, and so is its strictest mode; no weekly billing or trial that turns into a charge; no ads; no "Data Used to Track You" label; analytics off unless you turn them on; the app's website loads no advertising trackers; a privacy policy you can read in English; its own terms of service; no arbitration clause or class-action waiver; and no account needed.
+
+A high score doesn't make an app the right one for you: Nope scores 12/12 but only works in Safari, and Scroll Less is the only option that keeps the official apps. Use it together with the type table above.
 
 ## How to choose
 
