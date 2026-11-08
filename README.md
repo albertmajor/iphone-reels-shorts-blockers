@@ -53,7 +53,7 @@ Sorted by type, then by how much is free. Prices are the in-app purchase list on
 | [snowscroll](https://apps.apple.com/us/app/id6778488660) | Own browser | Free download | Pro $9.99 to $69.99 | Data Not Linked to You | Not checked |
 | [Sociano](https://apps.apple.com/us/app/id6760568406) | Own browser plus app blocker | Free download | Pro $9.99 a week or $39.99 a year | **Data Linked to You** | Not checked |
 | [Scroll Less](https://apps.apple.com/us/app/id6741134096) | Screen broadcast in the official apps | Free download | Premium $4.99 to $49.99 | Data Not Linked to You | Yes |
-| [Nope](https://apps.apple.com/us/app/id6768192042) | Safari extension | Free | None | Data Not Collected | On the website |
+| [Nope](https://apps.apple.com/us/app/id6768192042) | Safari extension (its website says the app can also open Instagram and YouTube itself) | Free | None | Data Not Collected | On the website |
 | [Slowth](https://apps.apple.com/us/app/id6764140763) | Safari extension | Free download | $0.99 to $8.99 (including a $8.99 Climbing Pass) | Data Not Collected | On the website |
 | [#blockit](https://apps.apple.com/us/app/id1492879257) | Safari extension | 7-day trial | $0.99 a month or $3.99 a year | Data Not Collected | On the website |
 | [ScrollGuard](https://apps.apple.com/us/app/id6754183872) | Safari extension (iPhone) | Free download | Pro from $3.99 | Data Not Linked to You | On the website |
@@ -91,7 +91,7 @@ How an app treats you, separate from how well it blocks: one point for each of 1
 
 What the checks mean: the thing you installed it for is free, and so is its strictest mode; no weekly billing or trial that turns into a charge; no ads; no "Data Used to Track You" label; analytics off unless you turn them on; the app's website loads no advertising trackers; a privacy policy you can read in English; its own terms of service; no arbitration clause or class-action waiver; and no account needed.
 
-A high score doesn't make an app the right one for you: Nope scores 12/12 but only works in Safari, and Scroll Less is the only option that keeps the official apps. Use it together with the type table above.
+A high score doesn't make an app the right one for you: Nope scores 12/12 but covers only Instagram and YouTube and is mainly a Safari extension, and Scroll Less is the only option that keeps the official apps. Use it together with the type table above.
 
 ## How to choose
 
