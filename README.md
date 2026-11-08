@@ -21,7 +21,7 @@ A plain, checked list of every iPhone app we know of that removes Instagram Reel
 - **Free, nothing to buy, keeps DMs:** [StillTabs](https://apps.apple.com/us/app/id6761367777) and [FeedOff](https://apps.apple.com/us/app/id6815511380). Both have no in-app purchases at all.
 - **You need TikTok too:** [minulo](https://apps.apple.com/us/app/id6809352229) (basic hiding is free, Pro is paid).
 - **You want to keep the official Instagram and YouTube apps:** [Scroll Less](https://apps.apple.com/us/app/id6741134096), which watches your screen through an iOS screen broadcast.
-- **You already use Instagram and YouTube in Safari:** [Nope](https://apps.apple.com/us/app/id6768192042) or [Slowth](https://apps.apple.com/us/app/id6764140763), free Safari extensions.
+- **You already use Instagram and YouTube in Safari:** [Nope](https://apps.apple.com/us/app/id6768192042) or [Slowth](https://apps.apple.com/us/app/id6764140763), Safari extensions (Nope has nothing to buy; Slowth sells optional extras).
 - **You want to block the whole app, not just Reels:** [ScreenZen](https://apps.apple.com/us/app/id1541027222) (free) or iPhone Screen Time.
 
 ## The four ways an iPhone app can block Reels
@@ -53,7 +53,7 @@ Sorted by type, then by how much is free. Prices are the in-app purchase list on
 | [Sociano](https://apps.apple.com/us/app/id6760568406) | Own browser plus app blocker | Free download | Pro $9.99 a week or $39.99 a year | **Data Linked to You** | Not checked |
 | [Scroll Less](https://apps.apple.com/us/app/id6741134096) | Screen broadcast in the official apps | Free download | Premium $4.99 to $49.99 | Data Not Linked to You | Yes |
 | [Nope](https://apps.apple.com/us/app/id6768192042) | Safari extension | Free | None | Data Not Collected | On the website |
-| [Slowth](https://apps.apple.com/us/app/id6764140763) | Safari extension | Free | Optional tips | Data Not Collected | On the website |
+| [Slowth](https://apps.apple.com/us/app/id6764140763) | Safari extension | Free download | $0.99 to $8.99 (including a $8.99 Climbing Pass) | Data Not Collected | On the website |
 | [#blockit](https://apps.apple.com/us/app/id1492879257) | Safari extension | 7-day trial | $0.99 a month or $3.99 a year | Data Not Collected | On the website |
 | [ScrollGuard](https://apps.apple.com/us/app/id6754183872) | Safari extension (iPhone) | Free download | Pro from $3.99 | Data Not Linked to You | On the website |
 | [ScreenZen](https://apps.apple.com/us/app/id1541027222) | Pauses and limits whole apps | Free | Optional tips | Data Not Linked to You | No |
@@ -66,7 +66,7 @@ Sorted by type, then by how much is free. Prices are the in-app purchase list on
 ## How to choose
 
 - **"I only want Instagram for messages."** Pick an app of the "own app" type that keeps DMs. Some have a messages-only mode: StillTabs (Blackout mode, free) and minulo (free).
-- **"I don't want to pay, ever."** StillTabs, FeedOff and Nope have nothing to buy; Slowth only asks for optional tips. Many others are free to download but sell a subscription.
+- **"I don't want to pay, ever."** StillTabs, FeedOff and Nope have nothing to buy. Many others are free to download but sell a subscription.
 - **"I keep opening Instagram out of habit."** Look for an app that can redirect the habit: StillTabs adds Home Screen icons named Instagram and YouTube that open it; minulo, SocialLite and FeedOff can use Screen Time to lock the official apps.
 - **"I need TikTok or Snapchat."** minulo covers TikTok. Check each app's list of platforms before installing.
 - **"Privacy matters most."** Check the label column. FeedOff, Nope, Slowth and #blockit say Data Not Collected.
@@ -90,7 +90,7 @@ These look relevant but we haven't verified prices and labels yet. Corrections a
 ## FAQ
 
 **What is the best free app to block Reels and Shorts on iPhone?**
-If "free" means nothing to buy at all: StillTabs or FeedOff, which both keep your DMs, or Nope and Slowth if you use Safari. minulo and Fluid Friction are free for basic blocking and sell extras.
+If "free" means nothing to buy at all: StillTabs or FeedOff, which both keep your DMs, or Nope if you use Safari. minulo and Fluid Friction are free for basic blocking and sell extras.
 
 **Can an app remove Reels inside the real Instagram app?**
 Not directly; iOS doesn't allow it. Scroll Less comes closest by watching the screen through a broadcast. The other apps show Instagram inside their own app instead.
