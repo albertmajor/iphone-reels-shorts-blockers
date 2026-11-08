@@ -20,7 +20,7 @@ A plain, checked list of every iPhone app we know of that removes Instagram Reel
 
 - **Free, nothing to buy, keeps DMs:** [StillTabs](https://apps.apple.com/us/app/id6761367777) and [FeedOff](https://apps.apple.com/us/app/id6815511380). Both have no in-app purchases at all.
 - **You need TikTok too:** [minulo](https://apps.apple.com/us/app/id6809352229) (basic hiding is free, Pro is paid).
-- **You want to keep the official Instagram and YouTube apps:** [Scroll Less](https://apps.apple.com/us/app/id6741134096), which watches your screen through an iOS screen broadcast.
+- **You want to keep the official Instagram and YouTube apps:** [Scroll Less](https://apps.apple.com/us/app/id6741134096), which blocks Reels and Shorts in the official apps through an iOS screen broadcast (it can also open Instagram, YouTube and Reddit inside its own app).
 - **You already use Instagram and YouTube in Safari:** [Nope](https://apps.apple.com/us/app/id6768192042) or [Slowth](https://apps.apple.com/us/app/id6764140763), Safari extensions (Nope has nothing to buy; Slowth sells optional extras).
 - **You want to block the whole app, not just Reels:** [ScreenZen](https://apps.apple.com/us/app/id1541027222) (free) or iPhone Screen Time.
 
@@ -32,7 +32,7 @@ iOS doesn't let one app change how another app looks, so every Reels blocker use
 |---|---|---|---|
 | **Own app with the platforms inside** | Opens Instagram, YouTube and others inside its own app, with Reels and Shorts removed before you see them | Keep working | StillTabs, FeedOff, minulo, UNDOOMED, SocialLite, Dull, Fluid Friction |
 | **Safari extension** | Hides Reels and Shorts on the websites, in Safari only; switched on per site in Settings | Work on the website | Nope, Slowth, #blockit, ScrollGuard |
-| **Screen broadcast** | You start an iOS broadcast (the screen-recording system) so the app can spot Reels inside the official apps; it has to keep running | Keep working | Scroll Less |
+| **Screen broadcast** | You start an iOS broadcast (the screen-recording system) so the app can spot Reels inside the official apps; it has to keep running | Keep working | Scroll Less (which also opens the sites inside its own app) |
 | **Whole-app blocker** | Locks, delays or time-limits the entire app | Locked with everything else | Opal, one sec, ScreenZen, Screen Time |
 
 ## All apps compared
@@ -51,7 +51,7 @@ Sorted by type, then by how much is free. Prices are the in-app purchase list on
 | [LoomWeb](https://apps.apple.com/us/app/id6754727620) | Own browser | Free download | Pro $2.99 a month to $49.99 lifetime | Data Not Linked to You | Not checked |
 | [snowscroll](https://apps.apple.com/us/app/id6778488660) | Own browser | Free download | Pro $9.99 to $69.99 | Data Not Linked to You | Not checked |
 | [Sociano](https://apps.apple.com/us/app/id6760568406) | Own browser plus app blocker | Free download | Pro $9.99 a week or $39.99 a year | **Data Linked to You** | Not checked |
-| [Scroll Less](https://apps.apple.com/us/app/id6741134096) | Screen broadcast in the official apps | Free download | Premium $4.99 to $49.99 | Data Not Linked to You | Yes |
+| [Scroll Less](https://apps.apple.com/us/app/id6741134096) | Screen broadcast in the official apps, plus Instagram, YouTube and Reddit inside its own app | Free download | Premium $4.99 to $49.99 | Data Not Linked to You | Yes |
 | [Nope](https://apps.apple.com/us/app/id6768192042) | Safari extension (its website says the app can also open Instagram and YouTube itself) | Free | None | Data Not Collected | On the website |
 | [Slowth](https://apps.apple.com/us/app/id6764140763) | Safari extension | Free download | $0.99 to $8.99 (including a $8.99 Climbing Pass) | Data Not Collected | On the website |
 | [#blockit](https://apps.apple.com/us/app/id1492879257) | Safari extension | 7-day trial | $0.99 a month or $3.99 a year | Data Not Collected | On the website |
@@ -122,7 +122,7 @@ These look relevant but we haven't verified prices and labels yet. Corrections a
 If "free" means nothing to buy at all: StillTabs or FeedOff, which both keep your DMs, or Nope if you use Safari. minulo and Fluid Friction are free for basic blocking and sell extras.
 
 **Can an app remove Reels inside the real Instagram app?**
-Not directly; iOS doesn't allow it. Scroll Less comes closest by watching the screen through a broadcast. The other apps show Instagram inside their own app instead.
+Not directly; iOS doesn't allow it. Scroll Less comes closest by watching the screen through a broadcast; it also offers the websites inside its own app. The other apps show Instagram inside their own app instead.
 
 **Do these apps see my Instagram password?**
 In apps of the "own app" type you sign in on the platform's own page inside the app. Check each app's privacy policy; StillTabs, for example, runs no server in between, so passwords and messages don't pass through it.
