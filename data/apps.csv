@@ -1,0 +1,20 @@
+name,type,platforms_blocked,price_us,in_app_purchases,app_privacy_label,keeps_dms,app_store_url,checked
+StillTabs,Own app with the platforms inside,"Instagram, YouTube; Facebook, X, Reddit in beta",Free,No,Data Not Linked to You,Yes,https://apps.apple.com/us/app/id6761367777,2026-11-08
+FeedOff,Own app with the platforms inside; optional Screen Time shield,"Instagram, YouTube, X, Reddit, LinkedIn",Free,No,Data Not Collected,Yes,https://apps.apple.com/us/app/id6815511380,2026-11-08
+minulo,Own app with the platforms inside,"Instagram, YouTube, TikTok and others",Free download; basic hiding free,"Yes: Pro $9.99 a month or $39.99 a year",Data Not Linked to You,Yes,https://apps.apple.com/us/app/id6809352229,2026-11-08
+UNDOOMED,Own app with the platforms inside,"Instagram, YouTube and others",Free download,"Yes: Plus and Pro from $1.99 a month, $29.99 lifetime",Data Not Linked to You,Yes,https://apps.apple.com/us/app/id6751837079,2026-11-08
+SocialLite,Own app; can also block the official apps,"Instagram, YouTube and others",Free download,Yes: Pro up to $17.99 a month or $47.90 a year,Data Used to Track You,Yes,https://apps.apple.com/us/app/id6757661674,2026-11-08
+Dull,Own app with time limits,"Instagram, YouTube and others",Free download,Yes: $3.99 a month to $79.99 lifetime,Data Used to Track You,Yes,https://apps.apple.com/us/app/id6759723829,2026-11-08
+Fluid Friction,Own app; feed blockers plus scroll friction,"Instagram, YouTube and others",Free download; blockers free,Yes: $4.99 a month or $39.99 a year,Data Not Linked to You,Yes,https://apps.apple.com/us/app/id6782510849,2026-11-08
+LoomWeb,Own browser,"Instagram, YouTube and others",Free download,Yes: Pro $2.99 a month to $49.99 lifetime,Data Not Linked to You,Not checked,https://apps.apple.com/us/app/id6754727620,2026-11-08
+snowscroll,Own browser,"Instagram, YouTube and others",Free download,Yes: Pro $9.99 to $69.99,Data Not Linked to You,Not checked,https://apps.apple.com/us/app/id6778488660,2026-11-08
+Sociano,Own browser plus app blocker,"Instagram, YouTube and others",Free download,Yes: Pro $9.99 a week or $39.99 a year,Data Linked to You,Not checked,https://apps.apple.com/us/app/id6760568406,2026-11-08
+Scroll Less,Screen broadcast inside the official apps,"Instagram, YouTube",Free download,Yes: Premium $4.99 to $49.99,Data Not Linked to You,Yes,https://apps.apple.com/us/app/id6741134096,2026-11-08
+Nope,Safari extension,"Instagram, YouTube (websites in Safari)",Free,No,Data Not Collected,On the website,https://apps.apple.com/us/app/id6768192042,2026-11-08
+Slowth,Safari extension,"Short-video sites in Safari",Free,Optional tips,Data Not Collected,On the website,https://apps.apple.com/us/app/id6764140763,2026-11-08
+#blockit,Safari extension,"Short-video sites in Safari",7-day trial,Yes: $0.99 a month or $3.99 a year,Data Not Collected,On the website,https://apps.apple.com/us/app/id1492879257,2026-11-08
+ScrollGuard,Safari extension (iPhone),"Social sites in Safari",Free download,Yes: Pro from $3.99,Data Not Linked to You,On the website,https://apps.apple.com/us/app/id6754183872,2026-11-08
+one sec,Pause before opening whole apps,Whole apps,Free download,Yes: Pro $6.99 a month to $99.99 lifetime,Data Not Linked to You,No (locks the whole app),https://apps.apple.com/us/app/id1532875441,2026-11-08
+ScreenZen,Pauses and limits for whole apps,Whole apps,Free,Optional tips,Data Not Linked to You,No (locks the whole app),https://apps.apple.com/us/app/id1541027222,2026-11-08
+Opal,Blocks whole apps,Whole apps,Free download,Yes: $4.99 a week to $99.99 a year,Data Used to Track You,No (locks the whole app),https://apps.apple.com/us/app/id1497465230,2026-11-08
+iPhone Screen Time,Time limits for whole apps,Whole apps,Built in,No,Apple,No (locks the whole app),https://support.apple.com/guide/iphone/set-schedules-with-screen-time-iphb0c7313c9/ios,2026-11-08
