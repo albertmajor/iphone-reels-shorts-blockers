@@ -20,7 +20,7 @@ A plain, checked list of every iPhone app we know of that removes Instagram Reel
 
 - **Free, nothing to buy, keeps DMs:** [StillTabs](https://apps.apple.com/us/app/id6761367777) and [FeedOff](https://apps.apple.com/us/app/id6815511380). Both have no in-app purchases at all.
 - **You need TikTok too:** [minulo](https://apps.apple.com/us/app/id6809352229) (basic hiding is free, Pro is paid).
-- **You want to keep the official Instagram and YouTube apps:** [Scroll Less](https://apps.apple.com/us/app/id6741134096), which blocks Reels and Shorts in the official apps through an iOS screen broadcast (it can also open Instagram, YouTube and Reddit inside its own app).
+- **You want to keep the official Instagram and YouTube apps:** [Scroll Less](https://apps.apple.com/us/app/id6741134096), which blocks Reels and Shorts in the official apps only while an iOS screen broadcast is running, and sells Premium ($4.99 to $49.99). It can also open Instagram, YouTube and Reddit inside its own app.
 - **You already use Instagram and YouTube in Safari:** [Nope](https://apps.apple.com/us/app/id6768192042) or [Slowth](https://apps.apple.com/us/app/id6764140763), Safari extensions (Nope has nothing to buy; Slowth sells optional extras).
 - **You want to block the whole app, not just Reels:** [ScreenZen](https://apps.apple.com/us/app/id1541027222) (free) or iPhone Screen Time.
 
@@ -90,7 +90,7 @@ How an app treats you, separate from how well it blocks: one point for each of 1
 
 What the checks mean: the thing you installed it for is free, and so is its strictest mode; no weekly billing or trial that turns into a charge; no ads; no "Data Used to Track You" label; analytics off unless you turn them on; the app's website loads no advertising trackers; a privacy policy you can read in English; its own terms of service; no arbitration clause or class-action waiver; no account needed; an App Store update in the last 90 days, because a blocker that isn't maintained stops working when Instagram and YouTube change; and support for iOS 16, so older iPhones aren't left out.
 
-A high score doesn't make an app the right one for you: Nope scores 12/14 and covers only Instagram and YouTube, mainly as a Safari extension, and Scroll Less is the only option that keeps the official apps. Use it together with the type table above.
+A high score doesn't make an app the right one for you: Nope scores 12/14 and covers only Instagram and YouTube, mainly as a Safari extension, and Scroll Less is the only option that works in the official apps, as long as its screen broadcast keeps running. Use it together with the type table above.
 
 ## How to choose
 
