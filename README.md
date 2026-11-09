@@ -1,28 +1,49 @@
-# Apps that block Reels and Shorts on iPhone (2026)
+# Awesome Reels & Shorts blockers for iPhone [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A plain, checked list of every iPhone app we know of that removes Instagram Reels, YouTube Shorts and other short-video feeds, with **price, App Store privacy label, whether your DMs keep working and a 14-point pro-consumer score**. Facts come from each app's US App Store page.
+> Every iPhone app and setting that removes Instagram Reels, YouTube Shorts and other endless feeds while keeping your messages, checked against each app's own App Store page, website and terms.
 
-**Last checked: 8 November 2026** · Kept by the makers of StillTabs ([disclosure](#about-this-list)) · [Data as CSV](data/apps.csv) · [How to add or correct an app](CONTRIBUTING.md)
+**English** · [Nederlands](README.nl.md) · [Italiano](README.it.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [Español](README.es.md) · [Português](README.pt-BR.md) · [Magyar](README.hu.md)
+
+**Last checked: 8 November 2026** · 19 apps · [Data as CSV](data/apps.csv) · [Answers to common questions](answers/README.md) · [Add or correct an app](CONTRIBUTING.md) · Kept by the makers of StillTabs ([disclosure](#about-this-list))
+
+## Quick answers
+
+- **Can you turn off Instagram Reels?** No, Instagram has no switch. [What works instead](answers/turn-off-instagram-reels.md).
+- **Can you turn off YouTube Shorts?** Partly: the Shorts feed limit can be set to zero, but adults can dismiss it. [Details](answers/turn-off-youtube-shorts.md).
+- **Free, nothing to buy, keeps DMs:** [StillTabs](https://apps.apple.com/us/app/id6761367777) and [FeedOff](https://apps.apple.com/us/app/id6815511380). [Every option with no subscription](answers/free-reels-blocker-no-subscription.md).
+- **Treats users best:** StillTabs, the only app passing all 14 [pro-consumer checks](#pro-consumer-score); FeedOff and Slowth 13.
+- **Instagram only for messages:** StillTabs' Blackout mode (free). [Other ways](answers/instagram-dms-only.md).
+- **You need TikTok too:** [minulo](https://apps.apple.com/us/app/id6809352229) (basic hiding free, Pro paid).
+- **You use Instagram and YouTube in Safari:** [Nope](https://apps.apple.com/us/app/id6768192042) or [Slowth](https://apps.apple.com/us/app/id6764140763).
+- **Keep the official apps:** [Scroll Less](https://apps.apple.com/us/app/id6741134096), which blocks Reels in them while an iOS screen broadcast runs.
+- **Block the whole app, not just Reels:** [ScreenZen](https://apps.apple.com/us/app/id1541027222) (free) or iPhone Screen Time.
 
 ## Contents
 
-- [Quick answer](#quick-answer)
+- [Built-in settings (no app needed)](#built-in-settings-no-app-needed)
 - [The four ways an iPhone app can block Reels](#the-four-ways-an-iphone-app-can-block-reels)
+- [Apps that open Instagram and YouTube with the feeds removed](#apps-that-open-instagram-and-youtube-with-the-feeds-removed)
+- [Safari extensions](#safari-extensions)
+- [Screen broadcast](#screen-broadcast)
+- [Whole-app blockers (lock DMs too)](#whole-app-blockers-lock-dms-too)
 - [All apps compared](#all-apps-compared)
 - [Pro-consumer score](#pro-consumer-score)
 - [How to choose](#how-to-choose)
-- [Without installing anything](#without-installing-anything)
+- [What people say about StillTabs](#what-people-say-about-stilltabs)
+- [Answers](#answers)
 - [Not yet checked](#not-yet-checked)
 - [FAQ](#faq)
+- [Data](#data)
 - [About this list](#about-this-list)
 
-## Quick answer
+## Built-in settings (no app needed)
 
-- **Free, nothing to buy, keeps DMs:** [StillTabs](https://apps.apple.com/us/app/id6761367777) and [FeedOff](https://apps.apple.com/us/app/id6815511380). Both have no in-app purchases at all.
-- **You need TikTok too:** [minulo](https://apps.apple.com/us/app/id6809352229) (basic hiding is free, Pro is paid).
-- **You want to keep the official Instagram and YouTube apps:** [Scroll Less](https://apps.apple.com/us/app/id6741134096), which blocks Reels and Shorts in the official apps only while an iOS screen broadcast is running, and sells Premium ($4.99 to $49.99). It can also open Instagram, YouTube and Reddit inside its own app.
-- **You already use Instagram and YouTube in Safari:** [Nope](https://apps.apple.com/us/app/id6768192042) or [Slowth](https://apps.apple.com/us/app/id6764140763), Safari extensions (Nope has nothing to buy; Slowth sells optional extras).
-- **You want to block the whole app, not just Reels:** [ScreenZen](https://apps.apple.com/us/app/id1541027222) (free) or iPhone Screen Time.
+- **Instagram:** tap the Instagram logo and choose **Following** for only people you follow, newest first (it resets to Home next time). [Instagram](https://about.instagram.com/blog/announcements/favorites-and-following). There is no switch for Reels or Explore; *Reset suggested content* starts recommendations over. [Instagram Help](https://help.instagram.com/556617736965724/)
+- **YouTube:** You → Settings → Time management → **Shorts feed limit**, down to zero (adults can dismiss it). [YouTube Help](https://support.google.com/youtube/answer/16671528?hl=en). Turn off **Autoplay** and **Playback in feeds** in Settings.
+- **Facebook:** no setting removes Reels; *Show less* lowers similar ones for a while.
+- **X:** the For You tab cannot be removed or replaced as the default.
+- **Reddit:** Settings can turn off home-feed recommendations and autoplay.
+- **iPhone Screen Time:** limits whole apps, so messages are locked too. [Apple Support](https://support.apple.com/guide/iphone/set-schedules-with-screen-time-iphb0c7313c9/ios)
 
 ## The four ways an iPhone app can block Reels
 
@@ -34,6 +55,39 @@ iOS doesn't let one app change how another app looks, so every Reels blocker use
 | **Safari extension** | Hides Reels and Shorts on the websites, in Safari only; switched on per site in Settings | Work on the website | Nope, Slowth, #blockit, ScrollGuard |
 | **Screen broadcast** | You start an iOS broadcast (the screen-recording system) so the app can spot Reels inside the official apps; it has to keep running | Keep working | Scroll Less (which also opens the sites inside its own app) |
 | **Whole-app blocker** | Locks, delays or time-limits the entire app | Locked with everything else | Opal, one sec, ScreenZen, Screen Time |
+
+## Apps that open Instagram and YouTube with the feeds removed
+
+Reels, Shorts and suggested posts are removed before you see them; your DMs keep working.
+
+- [StillTabs](https://apps.apple.com/us/app/id6761367777) - Instagram and YouTube, plus Facebook, X and Reddit in beta. Native Instagram toolbar, Home Screen icons named after each platform (no Screen Time needed), up to five accounts per platform, four modes all free. No in-app purchases, no account. Data Not Linked to You, analytics off by default. iOS 16. 14/14.
+- [FeedOff](https://apps.apple.com/us/app/id6815511380) - Instagram, YouTube, X, Reddit and LinkedIn; optional Screen Time shield. No in-app purchases. Data Not Collected. iOS 16. 13/14.
+- [minulo](https://apps.apple.com/us/app/id6809352229) - Instagram, YouTube, TikTok and others. Basic hiding free; Hard Mode and longer blocks in Pro ($9.99/month, $39.99/year). iOS 16.4. 8/14.
+- [UNDOOMED](https://apps.apple.com/us/app/id6751837079) - Instagram, YouTube and others; analytics only if you opt in, no trackers on its website. Messages Only in Pro (from $1.99/month). iOS 16.4. 11/14.
+- [Fluid Friction](https://apps.apple.com/us/app/id6782510849) - feed blockers plus gentle scroll friction; all blockers free, Pro for themes and extras. iOS 17. 11/14.
+- [SocialLite](https://apps.apple.com/us/app/id6757661674) - Instagram, YouTube and others; can also lock the official apps. Pro up to $47.90/year; account with phone number. 17,000+ ratings. iOS 17. 4/14.
+- [Dull](https://apps.apple.com/us/app/id6759723829) - time limits inside its own app; whole app needs Dull Pro after a 7-day trial. iOS 17. 7/14.
+- [LoomWeb](https://apps.apple.com/us/app/id6754727620), [snowscroll](https://apps.apple.com/us/app/id6778488660), [Sociano](https://apps.apple.com/us/app/id6760568406) - own browsers for social sites, each with a paid tier.
+
+## Safari extensions
+
+Hide Reels and Shorts on the websites, in Safari only. DMs work on the website.
+
+- [Nope](https://apps.apple.com/us/app/id6768192042) - Instagram and YouTube, 17 toggles, Chrome extension too. No in-app purchases. Data Not Collected. 12/14.
+- [Slowth](https://apps.apple.com/us/app/id6764140763) - short-video sites in Safari, free 24-hour Strict Mode, optional tips, open source. Data Not Collected. 13/14.
+- [ScrollGuard](https://apps.apple.com/us/app/id6754183872) - free tier with a cap on filters, Pro from $3.99. iOS 18. 9/14.
+- [#blockit](https://apps.apple.com/us/app/id1492879257) - after a 7-day trial, $0.99/month or $3.99/year. Data Not Collected. 8/14.
+
+## Screen broadcast
+
+- [Scroll Less](https://apps.apple.com/us/app/id6741134096) - spots Reels inside the official apps through an iOS screen broadcast, which has to keep running; also opens Instagram, YouTube and Reddit inside its own app. Premium $4.99 to $49.99. 6/14.
+
+## Whole-app blockers (lock DMs too)
+
+- [ScreenZen](https://apps.apple.com/us/app/id1541027222) - pauses and limits, free with optional tips. 53,000+ ratings.
+- [one sec](https://apps.apple.com/us/app/id1532875441) - a breath before an app opens. One app free, Pro for more. 23,000+ ratings.
+- [Opal](https://apps.apple.com/us/app/id1497465230) - schedules and deep focus; Pro from $4.99/week. 91,000+ ratings.
+- [iPhone Screen Time](https://support.apple.com/guide/iphone/set-schedules-with-screen-time-iphb0c7313c9/ios) - built in, free.
 
 ## All apps compared
 
@@ -101,11 +155,46 @@ A high score doesn't make an app the right one for you: Nope scores 12/14 and co
 - **"Privacy matters most."** Check the label column. FeedOff, Nope, Slowth and #blockit say Data Not Collected.
 - **"I'm on Android."** Most apps here are iPhone only. ScrollGuard and AppBlock have Android versions.
 
-## Without installing anything
+## What people say about StillTabs
 
-- **Instagram:** tap the Instagram logo and choose Following to see only people you follow (it resets to Home next time). [Instagram Help](https://about.instagram.com/blog/announcements/favorites-and-following)
-- **YouTube:** set the Shorts feed limit to zero in Settings; adults can dismiss the reminder. [YouTube Help](https://support.google.com/youtube/answer/16671528?hl=en)
-- **Screen Time:** limits whole apps, so DMs go too. [Apple Support](https://support.apple.com/guide/iphone/set-schedules-with-screen-time-iphb0c7313c9/ios)
+Messages people sent through the feedback form inside the StillTabs app, October and November 2026, quoted word for word. They are anonymous; nobody was paid or asked to write them.
+
+> “LOVE THE UI OMG”
+>
+> “Great product.. super underrated”
+>
+> “I LOVE YOU STILL TABS UR SAVING ME!!”
+>
+> “This app is what i was looking for”
+>
+> “just what i was looking for (free)”
+
+## Answers
+
+One question, one page, each with sources:
+
+- [Can you turn off Instagram Reels?](answers/turn-off-instagram-reels.md)
+- [How do I remove the Reels tab from Instagram?](answers/remove-instagram-reels-tab.md)
+- [Can you turn off YouTube Shorts?](answers/turn-off-youtube-shorts.md)
+- [Can YouTube open on my subscriptions instead of Home?](answers/youtube-subscriptions-only.md)
+- [Can I use Instagram only for messages?](answers/instagram-dms-only.md)
+- [How do I see only people I follow on Instagram?](answers/instagram-following-feed.md)
+- [Can you turn off Instagram Explore?](answers/hide-instagram-explore.md)
+- [Can you turn off Facebook Reels?](answers/turn-off-facebook-reels.md)
+- [Can you remove the For You tab on X?](answers/remove-x-for-you-tab.md)
+- [Can Reddit stop recommending posts?](answers/reddit-without-recommendations.md)
+- [Which Reels blockers keep my Instagram DMs?](answers/reels-blocker-keep-dms.md)
+- [Is there a Reels blocker with no subscription?](answers/free-reels-blocker-no-subscription.md)
+- [Can a Safari extension hide Reels and Shorts?](answers/safari-extension-hide-reels-shorts.md)
+- [Can an app remove Reels inside the real Instagram app?](answers/block-reels-in-official-instagram-app.md)
+- [Can Screen Time block only Reels?](answers/screen-time-block-only-reels.md)
+- [Is SocialLite free?](answers/is-sociallite-free.md)
+- [What is a good SocialLite alternative?](answers/sociallite-alternative.md)
+- [Can I use several Instagram accounts without Reels?](answers/multiple-accounts-without-reels.md)
+- [Can I have an Instagram icon that opens without Reels?](answers/instagram-icon-without-reels.md)
+- [Which Reels blocker websites track you?](answers/which-reels-blocker-websites-track-you.md)
+- [Which Reels blocker treats users best?](answers/most-pro-consumer-reels-blocker.md)
+- [How can parents limit Reels and Shorts for a teenager?](answers/reels-shorts-for-teens.md)
 
 ## Not yet checked
 
@@ -129,6 +218,11 @@ In apps of the "own app" type you sign in on the platform's own page inside the 
 
 **Is there a Reels blocker for Android?**
 Yes, but most apps here are iPhone only. ScrollGuard and AppBlock have Android versions.
+
+## Data
+
+- [`data/apps.csv`](data/apps.csv): every app, 33 columns, with the source pages for each row.
+- [`data/score-checks.json`](data/score-checks.json): the 14 checks behind the score.
 
 ## About this list
 

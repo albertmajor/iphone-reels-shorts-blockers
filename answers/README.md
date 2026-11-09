@@ -1,0 +1,26 @@
+# Answers
+
+One question, one page.
+
+- [Can you turn off Instagram Reels?](turn-off-instagram-reels.md)
+- [How do I remove the Reels tab from Instagram?](remove-instagram-reels-tab.md)
+- [Can you turn off YouTube Shorts?](turn-off-youtube-shorts.md)
+- [Can YouTube open on my subscriptions instead of Home?](youtube-subscriptions-only.md)
+- [Can I use Instagram only for messages?](instagram-dms-only.md)
+- [How do I see only people I follow on Instagram?](instagram-following-feed.md)
+- [Can you turn off Instagram Explore?](hide-instagram-explore.md)
+- [Can you turn off Facebook Reels?](turn-off-facebook-reels.md)
+- [Can you remove the For You tab on X?](remove-x-for-you-tab.md)
+- [Can Reddit stop recommending posts?](reddit-without-recommendations.md)
+- [Which Reels blockers keep my Instagram DMs?](reels-blocker-keep-dms.md)
+- [Is there a Reels blocker with no subscription?](free-reels-blocker-no-subscription.md)
+- [Can a Safari extension hide Reels and Shorts?](safari-extension-hide-reels-shorts.md)
+- [Can an app remove Reels inside the real Instagram app?](block-reels-in-official-instagram-app.md)
+- [Can Screen Time block only Reels?](screen-time-block-only-reels.md)
+- [Is SocialLite free?](is-sociallite-free.md)
+- [What is a good SocialLite alternative?](sociallite-alternative.md)
+- [Can I use several Instagram accounts without Reels?](multiple-accounts-without-reels.md)
+- [Can I have an Instagram icon that opens without Reels?](instagram-icon-without-reels.md)
+- [Which Reels blocker websites track you?](which-reels-blocker-websites-track-you.md)
+- [Which Reels blocker treats users best?](most-pro-consumer-reels-blocker.md)
+- [How can parents limit Reels and Shorts for a teenager?](reels-shorts-for-teens.md)
